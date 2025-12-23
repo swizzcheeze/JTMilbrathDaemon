@@ -10,19 +10,19 @@ Content follows until the next section.
 
 [ABOUT]
 
-My name is Daniel Miessler (MEE-slur) and I'm a Cybersecurity guy turned Cyber/AI guy based out of the San Francisco Bay Area.
+My name is Jeffrey Milbrath (Mil-Brath) and I'm a child of 1980.  I'm based out of SE Wisconsin these days, originally from Chicago IL. Been working with computers since 1986 and I fondly remember IBM's Dr. Watson....I've been waiting for this day a long long time and it is what I envisioned in my Youth.
 
-My main projects right now are Frame—an AI application building platform, Human 3.0—A system for upgrading humans to prepare for what's coming, and Threshold—an application that filters the internet by what you're guaranteed to like.
+My main projects right now are AI application building platforms, AI Human-Reasoning Think-Tanks, Augmentation and Enchanced Learning with AI. 
 
-I spend most of my time thinking about how AI will change work and society. I live in the Bay Area and write at danielmiessler.com. My goal is pretty simple: help people figure out what they're meant to do with their lives, especially as the world changes rapidly around us.
+
 
 [CURRENT_LOCATION]
 
-Currently home in the Bay Area
+Currently home in the SE Wisconsin Area
 
 [MISSION]
 
-Increase human Eudaimonia by helping people identify, articulate, and pursue their own purpose in life. Build systems—heavily leveraging the latest in AI—that help people upgrade to the best possible version of themselves (Human 3.0). Transfer (or store) my and B's minds into a format that we can upload into the next (digital) version of our lives.
+Increase AI Awareness, empowering Users to embrace AI to help improve their lives and bring understanding in a world full of Misunderstandings.
 
 [TELOS]
 
@@ -40,72 +40,55 @@ Missions (M) - My approaches to addressing these problems:
 
 [FAVORITE_BOOKS]
 
-- "1929" (currently reading)
-- "Mathematica", by David Bessis
-- "Meditations" by Marcus Aurelius
-- "The Obstacle Is the Way" by Ryan Holiday
-- "Sapiens" by Yuval Noah Harari
-- "The Singularity Is Near" by Ray Kurzweil
-- "Zero to One" by Peter Thiel
-- "The Art of War" by Sun Tzu
-- "Antifragile" by Nassim Nicholas Taleb
-- "The Black Swan" by Nassim Nicholas Taleb
-- "Thinking, Fast and Slow" by Daniel Kahneman
-- "The Lean Startup" by Eric Ries
-
+- "The Bible NLT" (currently reading)
+- "The Let them Theory"
+- "Self-Help"
+- Philosophy
+- Language
+- Arts
+  
 [FAVORITE_MOVIES]
 
 - The Matrix
-- Pulp Fiction
-- Ex Machina
-- Blade Runner 2049
-- Her
-- Arrival
-- Interstellar
-- Gattaca
+- A Beautiful Mind
+- Gladiator
+- Starwars (all of them)
+- Ewoks, The Battle for ENDOR
+- Quinten Tarintino
+- 
 
 [FAVORITE_PODCASTS]
 
-- The Joe Rogan Experience
-- Lex Fridman Podcast
-- Huberman Lab
-- Making Sense with Sam Harris
-- The Tim Ferriss Show
+- 
 
 [DAILY_ROUTINE]
 
-- 8AM Wakeup
-- Outside 🚶🏼‍➡️Walk in the ☀️Sunlight for 5-10 minutes
-- Avoid inputs that could be interesting / distracting
-- 💊 Vitamins / Supplements / Nootropics
-- 🥛 Small Protein shake
+- 5-8AM Wakeup
+- Avoid inputs Such as Morning News Upon waking 30min
+- 💊 Vitamins / Supplements / Nootropics / Mindfulness
 - ☕ Caffeine
 - 📅 Start agenda
-- Chipotle Bowl (Brown Rice / Black Beans) around lunch sometimes
-- Protein Shake for lunch sometimes
-- Try to walk around 5-30 minutes near dusk (not strict on this)
-- Sleep with Eye Mask and Earplugs, around 2300-1AM
+- Sleep around 12-1AM avoid inputs such as Evening news 30min before retiring for th Night.
 
 [PREFERENCES]
 
-- Writing tools: Neovim with Tokyo Night Storm theme
-- Programming languages: Go, Python, TypeScript
-- Operating system: macOS with extensive CLI customization
+- Programming languages: Go, Python, TypeScript, Javascript
+- Operating system: PC, Linux, 
 - Coffee: Black, no sugar
-- Music: Electronic, ambient, classical
-- Exercise: Running, hiking, martial arts
-- Learning style: Reading, building, teaching
-- Communication: Direct, honest, philosophical
+- Music: Electronic, ambient, classical, Classic rock.
+- Exercise: Running, hiking, fishing
+- Learning style: Reading, building, teaching, Hands-on
+- Communication: Direct, honest, philosophical, out-of-the-box thinker.
 - Work style: Deep focus blocks, automation-heavy
 - Values: Curiosity, growth, helping others, building useful things
 
 [PREDICTIONS]
 
 - Recession-like shock caused by AI job loss by 2027 (Chances About Even)
-- We'll have AGI between 2025 and 2028 (Almost Certain)
-- Open-source models will largely catch up to closed-source models (Probable)
-- Apple is about to go from the worst AI implementation to the best (Probable)
+- We'll have AGI between 2028 (Certain)
+- Open-source models will largely catch up to closed-source models (Very Probable)
+- Apple is about to go from the worst AI implementation to the best (Im-Probable)
 - Everyone, including people, will have an API (Almost Certain)
 - Personal daemons will broadcast preferences (Almost Certain)
 - Venues personalize based on customer preferences (Almost Certain)
-- People will lack meaning and look for it in games (Almost Certain)
+- People will lack meaning and look for it in games (Almost Certain), OLD SCHOOL GAMES as Video Games and PC GAMES etc. have left a bad taste in peoples mouths.
